@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeChoice", "TimeChoice.csproj", "{A124082B-456B-2311-FF1C-6F4C4436458C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeChoice.Editor", "TimeChoice.Editor.csproj", "{2E854B28-4EB5-D7FC-66B4-0A567A75F2D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A124082B-456B-2311-FF1C-6F4C4436458C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A124082B-456B-2311-FF1C-6F4C4436458C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A124082B-456B-2311-FF1C-6F4C4436458C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A124082B-456B-2311-FF1C-6F4C4436458C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E854B28-4EB5-D7FC-66B4-0A567A75F2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E854B28-4EB5-D7FC-66B4-0A567A75F2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E854B28-4EB5-D7FC-66B4-0A567A75F2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E854B28-4EB5-D7FC-66B4-0A567A75F2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
